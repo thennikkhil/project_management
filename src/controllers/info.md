@@ -1,0 +1,1 @@
+this part the controllers is where all the logic is stored of the application
